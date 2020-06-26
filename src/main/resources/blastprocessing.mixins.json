@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "tfar.blastprocessing.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "blastprocessing.refmap.json",
+  "mixins": [
+    "AbstractFurnaceTileEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
